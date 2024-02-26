@@ -1,0 +1,17 @@
+Index: dzsite/main/templates/main/layout.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/dzsite/main/templates/main/layout.html b/dzsite/main/templates/main/layout.html
+--- a/dzsite/main/templates/main/layout.html	
++++ b/dzsite/main/templates/main/layout.html	(date 1702254730445)
+@@ -19,7 +19,7 @@
+     <ul>
+         <a href=""><li><i class="fa-solid fa-house"></i> Главная</li></a>
+         <a href=""><li><i class="fa-solid fa-list"></i> Про нас</li></a>
+-        <a href=""><li><i class="fa-solid fa-user"></i>Контакты</li></a>
++        <a href=""><li><i class="fa-solid fa-user"></i> Контакты</li></a>
+     </ul>
+ <aside>
+ <main>
