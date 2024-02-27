@@ -26,6 +26,7 @@ class NewsDeleteView(DeleteView):
     model = Artiles
     success_url = '/news'
     template_name = 'news/news-delete.html'
+    
 
 
 def create(request):
